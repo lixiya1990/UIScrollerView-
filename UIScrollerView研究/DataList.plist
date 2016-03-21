@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>title</key>
+		<string>hitTest方法重写</string>
+		<key>classString</key>
+		<string>OneViewController</string>
+	</dict>
+	<dict>
+		<key>title</key>
+		<string>仿格瓦拉引导页（hitTest方法）</string>
+		<key>classString</key>
+		<string>TwoViewController</string>
+	</dict>
+	<dict>
+		<key>title</key>
+		<string>仿格瓦拉引导页</string>
+		<key>classString</key>
+		<string>ThreeViewController</string>
+	</dict>
+	<dict>
+		<key>title</key>
+		<string>UIScrollerView研究&gt;分页1 </string>
+		<key>classString</key>
+		<string>FourViewController</string>
+	</dict>
+	<dict>
+		<key>title</key>
+		<string>UIScrollerView研究&gt;分页2 </string>
+		<key>classString</key>
+		<string>FiveViewController</string>
+	</dict>
+	<dict>
+		<key>title</key>
+		<string>UIScrollerView研究&gt;分页3 </string>
+		<key>classString</key>
+		<string>SixViewController</string>
+	</dict>
+	<dict>
+		<key>title</key>
+		<string>UIScrollerView重用</string>
+		<key>classString</key>
+		<string>SevenViewController</string>
+	</dict>
+	<dict>
+		<key>title</key>
+		<string>UIScrollerView联动</string>
+		<key>classString</key>
+		<string>EightViewController</string>
+	</dict>
+	<dict>
+		<key>title</key>
+		<string>UIScrollerView协议方法</string>
+		<key>classString</key>
+		<string>NineViewController</string>
+	</dict>
+</array>
+</plist>
